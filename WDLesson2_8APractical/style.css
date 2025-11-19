@@ -26,32 +26,32 @@ nav a{
 
   text-align:center;
   padding:10px;
-  transition:0.5s
+  transition:0.5s;
   flex: 1;
 }
 nav a:hover{
     background-color:blue;
     color:white;
     transition:0.5s;
-    flex: 1;
+    
 }
 #banner{
   background-color:blue;
   color:white;
   padding:20px;
-  flex: 1;
+  
 }
 #body{
   padding:50px;
-  flex: 1;
+  
 }
 #links{
   padding:50px;
-  flex: 1;
+
 }
 #footer{
   background-color:blue;
   color:white;
   padding:20px;
-  flex: 1;
+
 }
